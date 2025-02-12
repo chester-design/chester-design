@@ -55,24 +55,30 @@
 
 <p>
 
-<img hight="320" width="450" align="center" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzMjk5NzMsIm5iZiI6MTczOTMyOTY3MywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDAzMDc1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyYzk2YWRhMThlM2MyNzhiZmU2NTEzYzZhODA0ODdhMjI4MzdlODA5MGQ5ZmNhM2M2ZDc3ZGI4ZTRmZTdlODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P3O7vAWBBOcPVzd2WsRTUg0fWQ7qILxgW4idbh0EEEA">
+<img hight="320" width="450" align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzMjk5NzMsIm5iZiI6MTczOTMyOTY3MywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDAzMDc1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyYzk2YWRhMThlM2MyNzhiZmU2NTEzYzZhODA0ODdhMjI4MzdlODA5MGQ5ZmNhM2M2ZDc3ZGI4ZTRmZTdlODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P3O7vAWBBOcPVzd2WsRTUg0fWQ7qILxgW4idbh0EEEA">
+
 </br>
 </br>
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+</br>
+
+All my socials are here, so if you have any questions, a job for me, or you just want to hangout don't hesitate to message me anytime! 🐣
 
 <a href="mailto:chesterallannavarro1221@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chester-navarro-45537b340/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />
 </br>
-
 </a>
 <a href="https://www.instagram.com/ny3_nye/">
-  <img align="left" alt="Instagram" width="130" hight="100" src="" />
+  <img align="left" alt="Instagram" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" />
 </a>
 <a href="https://join.skype.com/invite/sd9cUbhs2qMN">
-  <img align="left" alt="Skype" width="130" hight="100" src="" />
+  <img align="left" alt="Skype" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/skype.svg" />
+</br>
+</a>
+<a href="https://steamcommunity.com/profiles/76561199076552776/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
 </a>
 </p>
  
