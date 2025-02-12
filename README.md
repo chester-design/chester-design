@@ -9,9 +9,7 @@
 
 ***<p style="text-align:center;">I'm a 22 novice front-end & graphic designer from the Philippines</p>***
 
-<div align="center">
 <img alt="hotgif.gif" align="center" src="https://github.com/chester-design/chester-design/blob/main/hotgif.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
-</div>
 
 ### - Learning :
 - ✨ Wordpress 
