@@ -53,9 +53,9 @@
 
 # Contact Me 📫
 
-<p>
+<p align="center">
 
-<img hight="320" width="450" align="center" alt="GIF" src="https://media.tenor.com/aykg8r1O0CkAAAAj/mofupiyo-mofu-piyo.gif">
+<img hight="320" width="450" alt="GIF" src="https://media.tenor.com/aykg8r1O0CkAAAAj/mofupiyo-mofu-piyo.gif">
 
 </br>
 </br>
@@ -68,18 +68,20 @@ All my socials are here, so if you have any questions, a job for me, or you just
 </a>
 <a href="https://www.linkedin.com/in/chester-navarro-45537b340/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />
-</br>
 </a>
+</br>
 <a href="https://www.instagram.com/ny3_nye/">
   <img align="left" alt="Instagram" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" />
 </a>
 <a href="https://join.skype.com/invite/sd9cUbhs2qMN">
   <img align="left" alt="Skype" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/skype.svg" />
-</br>
 </a>
+</br>
 <a href="https://steamcommunity.com/profiles/76561199076552776/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
 </a>
+</br>
+
 </p>
  
 </br>
