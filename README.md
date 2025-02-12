@@ -79,7 +79,5 @@ All my socials are here, so if you have any questions, a job for me, or you just
 </br>
 </br>
 </br>
-</br>
-</br>
 
 *************
