@@ -7,7 +7,7 @@
 
 # About ME 💬
 
-<p align="center">
+<p style="text-align:center;">
 
 ### I'm a 22 novice Front-end & Graphic Designer from the Philippines
 
