@@ -3,18 +3,19 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/user-attachments/assets/7f642fa0-fe4a-453e-86a8-e2f67a1089f6">
 </div>
-
 </br>
 
 # About ME 💬
 
 <p align="center">
 
-### - I'm a 22 novice Front-end & Graphic Designer from the Philippines.
-
-<img alt="hotgif.gif" src="https://github.com/chester-design/chester-design/blob/main/hotgif.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+### I'm a 22 novice Front-end & Graphic Designer from the Philippines
 
 </p>
+
+<div align="center">
+<img alt="hotgif.gif" align="center" src="https://github.com/chester-design/chester-design/blob/main/hotgif.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+</div>
 
 ### - Learning :
 - ✨ Wordpress
