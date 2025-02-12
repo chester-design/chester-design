@@ -73,7 +73,7 @@ All my socials are here, so if you have any questions, a job for me, or you just
 </a>
 </br>
 <a href="https://steamcommunity.com/profiles/76561199076552776/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
+  <img align="left" alt="Steam" width="130" hight="400" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
 </a>
 </br>
 
