@@ -10,7 +10,11 @@
 
 ### - I'm a 22 novice Front-end & Graphic Designer from the Philippines.
 
+<p align="center">
+
 <img alt="hotgif.gif" src="https://github.com/chester-design/chester-design/blob/main/hotgif.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+
+</p>
 
 ### - Learning :
 - ✨ Wordpress
@@ -21,7 +25,6 @@
 
 ### - Hobbies : 
 - ✨ Gaming
-
 - ✨ Reading
 - ✨ Pixel Art
 - ✨ Baking (when I'm bored xD)
