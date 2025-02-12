@@ -24,10 +24,10 @@
 - ✨ Python
 
 ### - Hobbies : 
-- ✨ Gaming
-- ✨ Reading
-- ✨ Pixel Art
-- ✨ Baking (when I'm bored xD)
+- 🎮 Gaming
+- 📚 Reading
+- 👾 Pixel Art
+- 🍰 Baking (when I'm bored xD)
 
 </br>
 
