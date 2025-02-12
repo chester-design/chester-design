@@ -59,23 +59,20 @@
 All my socials are here, so if you have any questions, a job for me, or you just want to hangout don't hesitate to message me anytime! 🐣
 
 <a href="mailto:chesterallannavarro1221@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" />
+ <img align="center" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chester-navarro-45537b340/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />
+  <img align="center" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />
 </a>
-</br>
 <a href="https://www.instagram.com/ny3_nye/">
-  <img align="left" alt="Instagram" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" />
+  <img align="center" alt="Instagram" width="160" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" />
 </a>
 <a href="https://join.skype.com/invite/sd9cUbhs2qMN">
-  <img align="left" alt="Skype" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/skype.svg" />
+  <img align="center" alt="Skype" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/skype.svg" />
 </a>
-</br>
 <a href="https://steamcommunity.com/profiles/76561199076552776/">
-  <img align="left" alt="Steam" width="130" hight="400" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
+  <img align="center" alt="Steam" width="140" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
 </a>
-</br>
 
 </p>
  
