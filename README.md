@@ -1,4 +1,4 @@
-# Yo! My name is Chester🌻
+# Hi! My name is Chester🌻
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/user-attachments/assets/7f642fa0-fe4a-453e-86a8-e2f67a1089f6">
@@ -7,22 +7,21 @@
 
 # About ME 💬
 
-***<p style="text-align:center;">I'm a 22 novice front-end & graphic designer from the Philippines</p>***
+***<p style="text-align:center;">I'm a 24 multimedia and UI|UX Designer from the Philippines</p>***
 
 <img alt="hotgif.gif" align="center" src="https://github.com/chester-design/chester-design/blob/main/hotgif.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
 
 ### - Learning :
-- ✨ Wordpress 
+- ✨ Shopify
+- ✨ Affinity
 - ✨ Inkscape
-- ✨ Gimp
 - ✨ Godot
-- ✨ Python
 
 ### - Hobbies : 
 - 🎮 Gaming
 - 📚 Reading
 - 👾 Pixel Art
-- 🍰 Baking (when I'm bored xD)
+- 🍰 Baking
 
 </br>
 
